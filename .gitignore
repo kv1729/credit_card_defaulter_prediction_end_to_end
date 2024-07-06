@@ -1,4 +1,19 @@
+# Virtual environment
+# Ignore virtual environment directories
+cvenv/
+env/
+
+# Ignore environment variable files
+*.env
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
 # Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
